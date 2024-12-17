@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TodoList</title>
+
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TodoList.styles.css" asp-append-version="true" />
+
+    <style>
+        body {
+        background-color: #eceff4;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid " style="min-height: 100vh;">
+        <div class="row w-100 align-items-center flex-column pt-lg-5" style="min-height: 100vh;">
+            <div class="col-8">
+                <main role="main" class="w-100">
+                    <header class="d-flex align-items-center justify-content-between">
+                        <div></div>
+                        <h1 class="text-primary fw-bold text-center">
+                            <i class="fa-solid fa-clipboard-list"></i> Список задач
+                        </h1>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a href="Account/Logout" class="btn">
+                                Выйти
+                            </a>
+                        }
+                        else
+                        {
+                            <div></div>
+                        }
+                    </header>
+                    @RenderBody()
+                </main>
+
+                <footer class="footer text-end mt-3 w-100">
+                    &copy; 2024 - Список задач
+                </footer>
+            </div>
+       </div>
+   </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - TodoList - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

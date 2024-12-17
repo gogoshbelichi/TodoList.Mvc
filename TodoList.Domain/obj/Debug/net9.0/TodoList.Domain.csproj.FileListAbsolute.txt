@@ -1,0 +1,14 @@
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.csproj.AssemblyReference.cache
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.AssemblyInfoInputs.cache
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.AssemblyInfo.cs
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\bin\Debug\net9.0\TodoList.Domain.deps.json
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\bin\Debug\net9.0\TodoList.Domain.runtimeconfig.json
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\bin\Debug\net9.0\TodoList.Domain.dll
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\bin\Debug\net9.0\TodoList.Domain.pdb
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.dll
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\refint\TodoList.Domain.dll
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.pdb
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.genruntimeconfig.cache
+C:\Users\Gogosh\RiderProjects\TodoList.Mvc\TodoList.Domain\obj\Debug\net9.0\ref\TodoList.Domain.dll

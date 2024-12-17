@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\views\\account\\_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\views\\account\\_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\views\\account\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\views\\account\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\views\\shared\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\views\\shared\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\views\\shared\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\views\\shared\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8B6905-CAAF-46E2-936D-FD262837AC64}|TodoList.Mvc\\TodoList.Mvc.csproj|solutionrelative:todolist.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237766CA-F806-4CA9-8269-7A870DE149EF}|TodoList.Domain\\TodoList.Domain.csproj|c:\\users\\gogosh\\riderprojects\\todolist.mvc\\todolist.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237766CA-F806-4CA9-8269-7A870DE149EF}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Account\\_Login.cshtml",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Views\\Account\\_Login.cshtml",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Account\\_Login.cshtml",
+              "RelativeToolTip": "TodoList.Mvc\\Views\\Account\\_Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T03:00:04.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "TodoList.Mvc\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T02:59:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Shared\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Views\\Shared\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Shared\\Privacy.cshtml",
+              "RelativeToolTip": "TodoList.Mvc\\Views\\Shared\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T02:59:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Program.cs",
+              "RelativeToolTip": "TodoList.Mvc\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:51:39.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TodoList.Mvc\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:48:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TodoList.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwG0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:49:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Shared\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Views\\Shared\\PageNotFound.cshtml",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Shared\\PageNotFound.cshtml",
+              "RelativeToolTip": "TodoList.Mvc\\Views\\Shared\\PageNotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T02:49:10.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TodoList.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:48:46.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Account\\_Register.cshtml",
+              "RelativeDocumentMoniker": "TodoList.Mvc\\Views\\Account\\_Register.cshtml",
+              "ToolTip": "C:\\Users\\Gogosh\\RiderProjects\\TodoList.Mvc\\TodoList.Mvc\\Views\\Account\\_Register.cshtml",
+              "RelativeToolTip": "TodoList.Mvc\\Views\\Account\\_Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T02:48:15.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
